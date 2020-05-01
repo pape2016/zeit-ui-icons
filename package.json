@@ -1,0 +1,26 @@
+{
+  "name": "zeit-ui-icons",
+  "version": "1.0.0",
+  "description": "zeit ui icons",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack --progress"
+  },
+  "keywords": [
+    "zeit-ui-icons"
+  ],
+  "author": "pan peng",
+  "license": "ISC",
+  "devDependencies": {
+    "@zeit-ui/themes": "^1.0.0",
+    "@zeit-ui/vue": "^2.4.0",
+    "@zeit-ui/vue-icons": "^3.0.0",
+    "css-loader": "^3.5.3",
+    "html-webpack-plugin": "^3.2.0",
+    "vue": "^2.6.11",
+    "vue-loader": "^15.9.1",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.43.0"
+  }
+}
